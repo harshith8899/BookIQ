@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![Login Screen](./images/Home page.png)
+(./images/Home page.png)
 ![Dashboard](./images/ASK AI.png)
 ![Dashboard](./images/bookdetail.png)
 ---
