@@ -6,13 +6,9 @@
 
 ## Screenshots
 
-> Add 4 screenshots here after running the app.
-> Suggested screenshots:
-> 1. Dashboard / Book Listing Page
-> 2. Book Detail Page with AI Summary
-> 3. Q&A Interface with answer + sources
-> 4. Genre filter / search in action
-
+![Login Screen](./images/Home page.png)
+![Dashboard](./images/ASK AI.png)
+![Dashboard](./images/bookdetail.png)
 ---
 
 ## Tech Stack
@@ -146,25 +142,7 @@ Open **http://localhost:3000**
 }
 ```
 
----
 
-## Sample Questions & Answers
-
-**Q: Recommend a good mystery book**
-> Based on the books in your library, I recommend *Sharp Objects* — a gripping psychological mystery. You might also enjoy *In a Dark, Dark Wood* for its suspenseful plot.
-> Sources: Sharp Objects, In a Dark, Dark Wood
-
-**Q: What books are about history?**
-> Your library has several history books including *Sapiens: A Brief History of Humankind* which covers human evolution, and *The Age of Genius* which explores 17th century intellectual history.
-> Sources: Sapiens, The Age of Genius
-
-**Q: Suggest a book for self-improvement**
-> I'd recommend *The Life-Changing Magic of Tidying Up* for its practical approach to organizing your life, or *Reasons to Stay Alive* for mental wellness insights.
-> Sources: The Life-Changing Magic of Tidying Up, Reasons to Stay Alive
-
----
-
-## Features
 
 ### Core
 - Web scraping with Selenium from books.toscrape.com
@@ -214,7 +192,7 @@ book-intelligence/
 
 ---
 
-## Contact / Submission
+## Submission
 
 Submitted for Ergosphere Solutions internship assignment.
-Repo: https://github.com/YOUR_USERNAME/book-intelligence
+
