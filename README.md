@@ -6,10 +6,9 @@
 
 ## Screenshots
 
-(./images/Home page.png)
-![Dashboard](./images/ASK AI.png)
-![Dashboard](./images/bookdetail.png)
----
+![Home Page](./images/Home%20page.png)
+![Ask AI](./images/ASK%20AI.png)
+![Book Detail](./images/bookdetail.png)
 
 ## Tech Stack
 
